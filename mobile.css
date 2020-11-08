@@ -1,0 +1,14 @@
+@media screen and (max-width: 480px){
+
+ 
+    
+
+
+.main-div{
+    display: none;
+}
+.mobile , .mbl-dvc{
+   
+    display: block;
+}
+}
